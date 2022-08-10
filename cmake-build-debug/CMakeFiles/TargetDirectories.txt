@@ -1,0 +1,3 @@
+C:/Users/Computer/Documents/NCC/NCC-Exam-8-10-2022/cmake-build-debug/CMakeFiles/NCC_Exam_8_10_2022.dir
+C:/Users/Computer/Documents/NCC/NCC-Exam-8-10-2022/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Computer/Documents/NCC/NCC-Exam-8-10-2022/cmake-build-debug/CMakeFiles/rebuild_cache.dir
